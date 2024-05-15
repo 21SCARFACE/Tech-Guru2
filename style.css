@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans';
+}
+
+
+
+
+.head{
+background-color: #0096c7;
+padding: 40px;
+margin: 20px;
+text-align: justify;
+}
+.head2{
+    padding-bottom: 5%;
+    position: sticky;
+    top: 0;
+    color: white;
+
+}
+.head3{
+    margin-inline-start:40%;
+    padding-bottom: 2%;
+    
+}
+.head4{
+    padding-bottom:2%;
+}
+.gad{
+    padding-bottom: 1%;
+}
+.gad2{
+    padding-bottom: 1%;
+}
+.gad3{
+    padding-bottom: 1%;
+}
+.gad4{
+    padding-bottom: 1%;
+}
+.gad5{
+    padding-bottom: 1%;
+}
+.gad6{
+    padding-bottom: 1%;
+}
+.hua{
+    padding-bottom: 2.5%;
+    color: purple;
+}
+.vid{
+    padding-bottom: 18%;
+}
+.im{
+    padding-bottom: 3.5%;
+}
+.qui{
+    padding-bottom:1.5%;
+    color:purple;
+}
